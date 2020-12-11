@@ -24,15 +24,11 @@ change the suit for one of them. Save the application as War.java
 
 
 ASSIGNMENT QUESTION – EXAMPLE OUTPUT Part 1:
------------------------------------------------------
 Computer Player   Human Player    Result
 11 of Clubs       11 of Spades    Tie
------------------------------------------------------
 
------------------------------------------------------
 Computer Player Human Player    Result
 5 of Spades     3 of Spades     Computer wins
------------------------------------------------------
 
 
 
